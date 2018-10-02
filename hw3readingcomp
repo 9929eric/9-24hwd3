@@ -1,0 +1,5 @@
+A nested loop runs inside of an outer loop, can be used to access individual items on a list in a list of lists
+While loops are based on conditional statements.
+To iterate a specific number of times, you would use a for loop.
+It is possible to loop through a string one letter at a time. Example  sammy="Sammy" for letter in sammy: print (letter
+I think you could use a for loop inside a while loop, using the conditional loop to narrow the search area and for loop to find what you seek.
